@@ -154,11 +154,11 @@ sup {
 a {
   color: #D19C97;
   text-decoration: none;
-  background-color: transparent;
+  background-color: var(--primary);
 }
 
 a:hover {
-  color: #ba6a62;
+  color: #fff;
   text-decoration: underline;
 }
 
